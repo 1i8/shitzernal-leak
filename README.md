@@ -1,5 +1,5 @@
 # shitzernal-leak
--**build it as release x64**
+-**Build: Release x64 & Add items.dat in Growtopia main folder https://prnt.sc/N3yrgMcxGPFl**
 
 -RBSH.'S SHIT SOURCE LEAKED
 
